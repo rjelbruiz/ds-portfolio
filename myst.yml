@@ -1,0 +1,12 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 59831f43-b5ab-45d4-ae9a-8880c08d28dc
+  title: "DS Elective 4 - Personal Data Science Portfolio"
+  authors:
+    - name: "Ross Jervin Lorenz B. Ruiz"
+  toc:
+    - file: intro.md 
+    - file: DS414 Elective 4 Portfolio Contents (September 21, 2026).ipynb
+site:
+  template: book-theme
