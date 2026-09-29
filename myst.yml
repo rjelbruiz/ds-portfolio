@@ -8,5 +8,6 @@ project:
   toc:
     - file: intro.md 
     - file: DS414 Elective 4 Portfolio Contents (September 21, 2026).ipynb
+    - file: Ruiz, Ross Jervin Lorenz B. - Model Inference on Custom Dataset.ipynb
 site:
   template: book-theme
